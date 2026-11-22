@@ -1,0 +1,35 @@
+{
+  "dns": {
+    "ipv4": [
+      "104.16.132.229",
+      "104.16.133.229"
+    ],
+    "ipv6": [
+      "2606:4700::6810:84e5",
+      "2606:4700::6810:85e5"
+    ],
+    "ptr": "104.16.132.229"
+  },
+  "ports": {
+    "80": {
+      "open": true,
+      "ms": 77.2
+    },
+    "443": {
+      "open": true,
+      "ms": 131.5
+    }
+  },
+  "http": {
+    "url": "https://cloudflare.com",
+    "status": 200,
+    "server": "cloudflare",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "geo": {
+    "country": "United States",
+    "city": "San Francisco",
+    "asn": 13335,
+    "org": "Cloudflare, Inc."
+  }
+}
